@@ -11,7 +11,7 @@ Prophet是一个基于STL分解思想的预测时间序列数据的机器学习�
 
 本文档在语雀地址：https://www.yuque.com/alipayqgthu1irbf/prophet
 
-本文档GitHu地址：https://github.com/SharkFin-top/prophet-doc-zh
+本文档GitHub地址：https://github.com/SharkFin-top/prophet-doc-zh
 # Prophet官方地址：
 GitHub：https://github.com/facebook/prophet
 
