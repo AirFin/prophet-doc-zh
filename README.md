@@ -1,10 +1,9 @@
 # prophet-doc-zh
 prophet中文文档
 
-![png](https://cdn.nlark.com/yuque/0/2021/png/401331/1609771318171-b73b4f39-ea14-43dc-bbfb-64f79a1fb92b.png)
 
 # 说明
-Prophet[i]是一个基于STL分解思想的预测时间序列数据的机器学习框架，由Facebook公司在2017年进行开源。在这个模型中，非线性趋势与年、周、日季节性，加上节假日效应进行拟合。它对具有强烈的季节性效应和几个季节的历史数据的时间序列拟合效果较好。此外，Prophet对数据缺失和趋势变化具有很强的稳健性，通常能很好地处理异常值。
+Prophet是一个基于STL分解思想的预测时间序列数据的机器学习框架，由Facebook公司在2017年进行开源。在这个模型中，非线性趋势与年、周、日季节性，加上节假日效应进行拟合。它对具有强烈的季节性效应和几个季节的历史数据的时间序列拟合效果较好。此外，Prophet对数据缺失和趋势变化具有很强的稳健性，通常能很好地处理异常值。
 
 本文档是对其官方文档的中文翻译。水平有限，如有翻译不当之处敬请指正！
 # 地址
@@ -21,4 +20,4 @@ GitHub：https://github.com/facebook/prophet
 英文文档：https://facebook.github.io/prophet/docs/quick_start.html
 
 
-[i] Taylor S J , Letham B . Forecasting at Scale[J]. The American Statistician, 2017:0-0.
+
